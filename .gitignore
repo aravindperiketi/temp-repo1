@@ -1,0 +1,4 @@
+myexe
+*.o
+a.out
+*.tart.gz
