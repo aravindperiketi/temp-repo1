@@ -8,9 +8,9 @@ int func(int *x,int *y)
 
 int main()
 {
-int a=10;
-int b=20;
-printf("myadd:%d",myadd(x,y));
+int a=10,n=4;
+int b=20,r=7;
+printf("myadd:%d",myadd(r,n));
 
 printf("%d\n",func(&a,&b));
 }
