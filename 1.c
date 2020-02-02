@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include"mymath.h"
+#include"myadd.h"
 
 int func(int *x,int *y)
 {
